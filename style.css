@@ -1,0 +1,59 @@
+
+
+body {
+    font-family: lota;
+    background-color: #fff;
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    width: 600px;
+	margin: 10% auto;
+	padding: 5% 0;
+	color:#e7eafb;
+	text-align: center;
+	background-color: rgb(97 97 97 / 86%);
+	box-shadow: 1px 0px 4px 2px #9c9a9a;
+	cursor: pointer;
+}
+
+.h1{
+   font-family: lota;
+   font-weight: 800;
+   font-size: 2.6rem;
+   text-transform: capitalize;
+}
+
+.time {
+  
+    font-size: 60px;
+    color: black;
+    margin-bottom: 40px;;
+
+}
+
+ .buttons
+{
+
+	color:#a3a19f;
+	font-weight: 800;
+	text-transform: capitalize;
+	cursor: pointer;
+} 
+
+.buttons > button
+{
+
+    width:150px;
+	height: 50px;
+	background-color: black;
+	color:rgb(245, 234, 234);
+	border-radius: 6px;
+	border:2px solid white;
+	margin-right: 10px;
+	outline: none;
+    
+}
+
+
